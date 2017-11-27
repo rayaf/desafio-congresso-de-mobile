@@ -1,0 +1,68 @@
+html *
+{
+	font-family: 'Oswald', sans-serif;
+}
+
+body 
+{
+  padding-top: 7rem;
+  /*background-color: #F7FBFA#C9E1ED*/;
+  color: white;
+}
+
+
+.branco
+{
+	color: white;
+}
+
+.cor2
+{
+	background-color: #79BEA8/*#88BACE*/;
+}
+
+.cor3
+{
+	background-color: #448D76/*#3E7E98*/;
+}
+
+.texto-black
+{
+	color: black;
+}
+
+.productimg-fluid
+{
+    margin: 0 auto;
+}
+
+.distanciar
+{
+	padding-top: 1rem; 
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+
+.padding-cursos
+{
+	padding: 2rem;
+}
+
+.padding-campos
+{
+	margin: 0.5rem;
+}
+
+
+/*
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }*/
